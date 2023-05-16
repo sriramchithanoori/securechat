@@ -1,0 +1,30 @@
+.button1{
+    
+    color: rgb(245, 246, 245);
+    
+}
+.box{
+    border:5px;
+    border-radius: 3px;
+    border-color: rgb(67, 180, 45);
+}
+.input {
+    width: 90%;
+    height: 70%;
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding-left: 1rem;
+    font-size: 1.2rem;
+  }
+
+  .bold-input {
+    font-weight: bold;
+  }
+
+  .italic-input{
+    font-style: italic;
+  }
+  .strike{
+    text-decoration: line-through;
+  }
